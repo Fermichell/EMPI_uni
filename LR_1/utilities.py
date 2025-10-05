@@ -2,14 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def visualize_classifier(classifier, X, y, title=None, savepath=None, grid_step=0.02):
-    """
-    Малює межі класифікації для 2D-ознак.
-    classifier: вже навчений класифікатор (sklearn API: fit/predict)
-    X: np.ndarray, shape (n_samples, 2)
-    y: np.ndarray, shape (n_samples,)
-    title: заголовок графіка
-    savepath: шлях для збереження PNG. Якщо None — збережеться в ./outputs
-    """
     if X.shape[1] != 2:
         raise ValueError("visualize_classifier очікує рівно 2 ознаки (два стовпці у X).")
 
