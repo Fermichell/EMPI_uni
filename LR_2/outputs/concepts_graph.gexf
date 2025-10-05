@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-10-05">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="samsung" label="samsung" />
+      <node id="display" label="display" />
+      <node id="galaxy" label="galaxy" />
+      <node id="fold" label="fold" />
+      <node id="smartphone" label="smartphone" />
+      <node id="new" label="new" />
+      <node id="apple" label="apple" />
+      <node id="market" label="market" />
+      <node id="devices" label="devices" />
+      <node id="google" label="google" />
+      <node id="camera" label="camera" />
+      <node id="update" label="update" />
+      <node id="review" label="review" />
+      <node id="presents" label="presents" />
+      <node id="device" label="device" />
+      <node id="flexible" label="flexible" />
+      <node id="chip" label="chip" />
+      <node id="share" label="share" />
+      <node id="compete" label="compete" />
+      <node id="watch" label="watch" />
+      <node id="iphone" label="iphone" />
+      <node id="top" label="top" />
+      <node id="releases" label="releases" />
+      <node id="android" label="android" />
+      <node id="including" label="including" />
+      <node id="phones" label="phones" />
+      <node id="technology" label="technology" />
+      <node id="screen" label="screen" />
+      <node id="amoled" label="amoled" />
+      <node id="high" label="high" />
+      <node id="refresh" label="refresh" />
+      <node id="rate" label="rate" />
+    </nodes>
+    <edges>
+      <edge source="samsung" target="display" id="0" weight="2" />
+      <edge source="samsung" target="galaxy" id="1" weight="1" />
+      <edge source="samsung" target="fold" id="2" weight="2" />
+      <edge source="samsung" target="smartphone" id="3" weight="2" />
+      <edge source="samsung" target="new" id="4" weight="1" />
+      <edge source="samsung" target="apple" id="5" weight="2" />
+      <edge source="samsung" target="market" id="6" weight="2" />
+      <edge source="samsung" target="devices" id="7" weight="1" />
+      <edge source="samsung" target="google" id="8" weight="1" />
+      <edge source="samsung" target="camera" id="9" weight="1" />
+      <edge source="samsung" target="update" id="10" weight="1" />
+      <edge source="samsung" target="review" id="11" weight="1" />
+      <edge source="samsung" target="presents" id="12" weight="1" />
+      <edge source="samsung" target="device" id="13" weight="1" />
+      <edge source="samsung" target="share" id="14" weight="1" />
+      <edge source="samsung" target="compete" id="15" weight="1" />
+      <edge source="samsung" target="releases" id="16" weight="1" />
+      <edge source="samsung" target="android" id="17" weight="1" />
+      <edge source="samsung" target="including" id="18" weight="1" />
+      <edge source="samsung" target="phones" id="19" weight="1" />
+      <edge source="samsung" target="technology" id="20" weight="1" />
+      <edge source="samsung" target="screen" id="21" weight="1" />
+      <edge source="samsung" target="amoled" id="22" weight="1" />
+      <edge source="samsung" target="high" id="23" weight="1" />
+      <edge source="samsung" target="refresh" id="24" weight="1" />
+      <edge source="samsung" target="rate" id="25" weight="1" />
+      <edge source="display" target="new" id="26" weight="2" />
+      <edge source="display" target="device" id="27" weight="1" />
+      <edge source="display" target="flexible" id="28" weight="1" />
+      <edge source="display" target="chip" id="29" weight="1" />
+      <edge source="display" target="technology" id="30" weight="1" />
+      <edge source="display" target="screen" id="31" weight="1" />
+      <edge source="display" target="amoled" id="32" weight="1" />
+      <edge source="display" target="high" id="33" weight="1" />
+      <edge source="display" target="refresh" id="34" weight="1" />
+      <edge source="display" target="rate" id="35" weight="1" />
+      <edge source="galaxy" target="fold" id="36" weight="1" />
+      <edge source="galaxy" target="devices" id="37" weight="1" />
+      <edge source="galaxy" target="review" id="38" weight="1" />
+      <edge source="galaxy" target="device" id="39" weight="1" />
+      <edge source="galaxy" target="watch" id="40" weight="1" />
+      <edge source="galaxy" target="iphone" id="41" weight="1" />
+      <edge source="galaxy" target="top" id="42" weight="1" />
+      <edge source="fold" target="smartphone" id="43" weight="1" />
+      <edge source="fold" target="review" id="44" weight="1" />
+      <edge source="fold" target="presents" id="45" weight="1" />
+      <edge source="smartphone" target="apple" id="46" weight="1" />
+      <edge source="smartphone" target="market" id="47" weight="1" />
+      <edge source="smartphone" target="presents" id="48" weight="1" />
+      <edge source="smartphone" target="compete" id="49" weight="1" />
+      <edge source="new" target="device" id="50" weight="1" />
+      <edge source="new" target="flexible" id="51" weight="1" />
+      <edge source="new" target="chip" id="52" weight="1" />
+      <edge source="new" target="screen" id="53" weight="1" />
+      <edge source="new" target="amoled" id="54" weight="1" />
+      <edge source="new" target="high" id="55" weight="1" />
+      <edge source="new" target="refresh" id="56" weight="1" />
+      <edge source="new" target="rate" id="57" weight="1" />
+      <edge source="apple" target="market" id="58" weight="2" />
+      <edge source="apple" target="share" id="59" weight="1" />
+      <edge source="apple" target="compete" id="60" weight="1" />
+      <edge source="market" target="share" id="61" weight="1" />
+      <edge source="market" target="compete" id="62" weight="1" />
+      <edge source="devices" target="google" id="63" weight="1" />
+      <edge source="devices" target="camera" id="64" weight="1" />
+      <edge source="devices" target="update" id="65" weight="1" />
+      <edge source="devices" target="device" id="66" weight="2" />
+      <edge source="devices" target="watch" id="67" weight="1" />
+      <edge source="devices" target="iphone" id="68" weight="1" />
+      <edge source="devices" target="top" id="69" weight="1" />
+      <edge source="devices" target="releases" id="70" weight="1" />
+      <edge source="devices" target="android" id="71" weight="1" />
+      <edge source="devices" target="including" id="72" weight="1" />
+      <edge source="devices" target="phones" id="73" weight="1" />
+      <edge source="google" target="camera" id="74" weight="2" />
+      <edge source="google" target="update" id="75" weight="2" />
+      <edge source="google" target="device" id="76" weight="1" />
+      <edge source="google" target="releases" id="77" weight="1" />
+      <edge source="google" target="android" id="78" weight="1" />
+      <edge source="google" target="including" id="79" weight="1" />
+      <edge source="google" target="phones" id="80" weight="1" />
+      <edge source="camera" target="update" id="81" weight="2" />
+      <edge source="camera" target="device" id="82" weight="1" />
+      <edge source="camera" target="releases" id="83" weight="1" />
+      <edge source="camera" target="android" id="84" weight="1" />
+      <edge source="camera" target="including" id="85" weight="1" />
+      <edge source="camera" target="phones" id="86" weight="1" />
+      <edge source="update" target="device" id="87" weight="1" />
+      <edge source="update" target="releases" id="88" weight="1" />
+      <edge source="update" target="android" id="89" weight="1" />
+      <edge source="update" target="including" id="90" weight="1" />
+      <edge source="update" target="phones" id="91" weight="1" />
+      <edge source="device" target="flexible" id="92" weight="1" />
+      <edge source="device" target="chip" id="93" weight="1" />
+      <edge source="device" target="watch" id="94" weight="1" />
+      <edge source="device" target="iphone" id="95" weight="1" />
+      <edge source="device" target="top" id="96" weight="1" />
+      <edge source="device" target="releases" id="97" weight="1" />
+      <edge source="device" target="android" id="98" weight="1" />
+      <edge source="device" target="including" id="99" weight="1" />
+      <edge source="device" target="phones" id="100" weight="1" />
+      <edge source="flexible" target="chip" id="101" weight="1" />
+      <edge source="watch" target="iphone" id="102" weight="1" />
+      <edge source="watch" target="top" id="103" weight="1" />
+      <edge source="iphone" target="top" id="104" weight="1" />
+      <edge source="releases" target="android" id="105" weight="1" />
+      <edge source="releases" target="including" id="106" weight="1" />
+      <edge source="releases" target="phones" id="107" weight="1" />
+      <edge source="android" target="including" id="108" weight="1" />
+      <edge source="android" target="phones" id="109" weight="1" />
+      <edge source="including" target="phones" id="110" weight="1" />
+      <edge source="screen" target="amoled" id="111" weight="1" />
+      <edge source="screen" target="high" id="112" weight="1" />
+      <edge source="screen" target="refresh" id="113" weight="1" />
+      <edge source="screen" target="rate" id="114" weight="1" />
+      <edge source="amoled" target="high" id="115" weight="1" />
+      <edge source="amoled" target="refresh" id="116" weight="1" />
+      <edge source="amoled" target="rate" id="117" weight="1" />
+      <edge source="high" target="refresh" id="118" weight="1" />
+      <edge source="high" target="rate" id="119" weight="1" />
+      <edge source="refresh" target="rate" id="120" weight="1" />
+    </edges>
+  </graph>
+</gexf>
